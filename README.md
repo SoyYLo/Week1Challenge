@@ -18,6 +18,10 @@ This first challenge is an "on-the-job-ticket". This means a starter code is pro
 
 My first challenge requires me to look at a starter code and modify the code to refactor and make more accessible and cleaner. Thank you for ReadingME:)
 
+## Code Source
+
+The starter code was given to me for this assignment in Gitlab from my instructor for the University of Texas at Autin Coding Bootcamp Course. The starter code included an original index.html and style.css that I worked to modify to complete the assignment requirements. 
+
 ## Link
 
 https://soyylo.github.io/Week1Challenge/
