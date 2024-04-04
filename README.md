@@ -21,3 +21,8 @@ My first challenge requires me to look at a starter code and modify the code to 
 ## Link
 
 https://soyylo.github.io/Week1Challenge/
+
+## Screenshot
+
+<img width="1512" alt="Screenshot 2024-04-04 at 5 38 29 PM" src="https://github.com/SoyYLo/Week1Challenge/assets/161881415/8f56004a-d7dd-401b-9681-ee7179159f75">
+<img width="1512" alt="Screenshot 2024-04-04 at 5 39 08 PM" src="https://github.com/SoyYLo/Week1Challenge/assets/161881415/286d99ae-ab23-48fe-bb1e-2215397dbd53">
