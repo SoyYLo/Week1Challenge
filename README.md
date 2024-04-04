@@ -7,7 +7,7 @@
 ## Acceptance Criteria
 
 * It is done when I properly identify semantic HTML elements in a logical structure
-* It is done when list concise and describtive alt attributes
+* It is done when I list concise and describtive alt attributes
 * It is done when the live webpage satisfies the accesibility standards
 
 ## Decsription
